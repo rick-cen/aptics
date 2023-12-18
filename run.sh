@@ -9,7 +9,7 @@ echo "     /\   |  __ \__   __|_   _/ ____|/ ____|"
 echo "    /  \  | |__) | | |    | || |    | (___  "
 echo "   / /\ \ |  ___/  | |    | || |     \___ \ "
 echo "  / ____ \| |      | |   _| || |____ ____) |"
-echo " /_/    \_\_|      |_|  |_____\_____|_____/ 2024"
+echo " /_/    \_\_|      |_|  |_____\_____|_____/ "
 echo "ASSESSMENT & PROTECTION TECHNIQUES for INDUSTRIAL CONTROL SYSTEMS"
 
 

@@ -55,7 +55,7 @@ echo "   / /\ \ |  ___/  | |    | || |     \___ \ "
 sleep 0.1
 echo "  / ____ \| |      | |   _| || |____ ____) |"
 sleep 0.1
-echo " /_/    \_\_|      |_|  |_____\_____|_____/ 2024"
+echo " /_/    \_\_|      |_|  |_____\_____|_____/ "
 sleep 0.1
 echo "ASSESSMENT & PROTECTION TECHNIQUES for INDUSTRIAL CONTROL SYSTEMS"
 sleep 0.1
