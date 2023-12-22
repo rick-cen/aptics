@@ -10,7 +10,7 @@ echo "    /  \  | |__) | | |    | || |    | (___  "
 echo "   / /\ \ |  ___/  | |    | || |     \___ \ "
 echo "  / ____ \| |      | |   _| || |____ ____) |"
 echo " /_/    \_\_|      |_|  |_____\_____|_____/ "
-echo "ASSESSMENT & PROTECTION TECHNIQUES for INDUSTRIAL CONTROL SYSTEMS"
+echo "ASSESSMENT & PROTECTION TACTICS for INDUSTRIAL CONTROL SYSTEMS"
 
 
 #keep emulation awake
