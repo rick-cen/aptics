@@ -116,7 +116,7 @@ wincc() {
   echo ""
   cd ~
   cd aptics/wincc/
-  sudo nohup python -m SimpleHTTPServer 5900 > /dev/null 2>&1 &
+  sudo python -m SimpleHTTPServer 5900
   cd ~
 }
 echo -n "[i] Choose a system to emulate: "
