@@ -50,7 +50,8 @@ s7300() {
 }
 
 s71200() {
-  echo "[!] Exit this emulation with CTRL+C"
+  echo "[!] Reboot your VM when you're done with this emulation"
+  sleep 1
   echo "[*] Applying S7-1200 Profile"
   sleep 1
   sudo cp ~/aptics/snap7/build/bin/x86_64-linux/libsnap7.so-1200 /usr/lib/libsnap7.so
@@ -115,7 +116,7 @@ wincc() {
   echo ""
   cd ~
   cd aptics/wincc/
-  sudo python -m SimpleHTTPServer 8080
+  sudo nohup python -m SimpleHTTPServer 5900 > /dev/null 2>&1 &
   cd ~
 }
 echo -n "[i] Choose a system to emulate: "
