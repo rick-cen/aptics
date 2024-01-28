@@ -57,7 +57,7 @@ echo "  / ____ \| |      | |   _| || |____ ____) |"
 sleep 0.1
 echo " /_/    \_\_|      |_|  |_____\_____|_____/ "
 sleep 0.1
-echo "ASSESSMENT & PROTECTION TACTICS for INDUSTRIAL CONTROL SYSTEMS"
+echo "ASSESSING AND PROTECTING INDUSTRIAL CONTROL SYSTEMS"
 sleep 0.1
 echo "Connect your VM to the HostOnly Network and type ./run.sh to start."
 
